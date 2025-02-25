@@ -1,0 +1,16 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+
+#EXTINF:-1,TF1
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/243
+
+#EXTINF:-1,France 2
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/244
+
+#EXTINF:-1,France 3
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/245
+
+#EXTINF:-1,M6
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/246
+
+#EXTINF:-1,C8
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/247
