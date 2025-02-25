@@ -1,16 +1,32 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1,TF1
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/243
+##############################
+# PPV (Pay-Per-View)
+##############################
+#EXTGRP:PPV
+#EXTINF:-1 tvg-id="" tvg-name="CH10" tvg-logo="" group-title="PPV",CH10
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/132304
 
-#EXTINF:-1,France 2
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/244
+##############################
+# ES | CINE & SERIES VIP
+##############################
+#EXTGRP:ES | CINE & SERIES VIP
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS" tvg-logo="" group-title="ES | CINE & SERIES VIP",ES: M+ ESTRENOS
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/132309
 
-#EXTINF:-1,France 3
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/245
-
-#EXTINF:-1,M6
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/246
-
-#EXTINF:-1,C8
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/247
+##############################
+# FR | SPORT VIP
+##############################
+#EXTGRP:FR | SPORT VIP
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ FOOT" tvg-logo="https://docdog.top/logo/countries/france/canal_foot.png" group-title="FR | SPORT VIP",FR: CANAL+ FOOT
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/369
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ SPORT 360" tvg-logo="https://docdog.top/logo/countries/france/canal_360_sport.png" group-title="FR | SPORT VIP",FR: CANAL+ SPORT 360
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/370
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/france/canal-plus-sport-fr.png" group-title="FR | SPORT VIP",FR: CANAL+ SPORT
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/371
+#EXTINF:-1 tvg-id="CANST14" tvg-name="FR: CANAL+ TOP 14" tvg-logo="https://docdog.top/logo/countries/france/CANAL_TOP14.png" group-title="FR | SPORT VIP",FR: CANAL+ TOP 14
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/25880
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/bein-sports-1-french-fr.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 1
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/373
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/france/bein-sports-1-french-fr.png" group-title="FR | SPORT VIP",FR: BEIN SPORTS 1 HD
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/128979
