@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-##############################
-# ARAB VIP
-##############################
+
 #EXTGRP:ARAB VIP
 #EXTINF:-1 tvg-id="" tvg-name="AR: ✦●✦ALGERIA✦●✦" tvg-logo="" group-title="ARAB VIP",AR: ✦●✦ALGERIA✦●✦
 http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/6372
