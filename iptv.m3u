@@ -1,31 +1,19 @@
 
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 
-#EXTGRP:ALGERIAN CHANNELS
-#EXTINF:-1 tvg-id="" tvg-name="AR: EL ADJWAA TV" tvg-logo="https://docdog.top/logo/countries/arab/eladjwaatv.png" group-title="ALGERIAN CHANNELS",AR: EL ADJWAA TV
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/6373
-#EXTINF:-1 tvg-id="" tvg-name="AR: EL BILAD TV" tvg-logo="https://docdog.top/logo/countries/arab/elbiladtv.png" group-title="ALGERIAN CHANNELS",AR: EL BILAD TV
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/6374
-#EXTINF:-1 tvg-id="" tvg-name="AR: EL DJAZAIRIA" tvg-logo="https://docdog.top/logo/countries/arab/eldjazairia.png" group-title="ALGERIAN CHANNELS",AR: EL DJAZAIRIA
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/6375
-#EXTINF:-1 tvg-id="" tvg-name="AR: EL DJAZAIRIA ONE" tvg-logo="https://docdog.top/logo/countries/arab/eldjazairiaone.png" group-title="ALGERIAN CHANNELS",AR: EL DJAZAIRIA ONE
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/6376
-#EXTINF:-1 tvg-id="" tvg-name="AR: EL FADJR" tvg-logo="https://docdog.top/logo/countries/arab/elfadjrtv.png" group-title="ALGERIAN CHANNELS",AR: EL FADJR
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/6377
-#EXTINF:-1 tvg-id="" tvg-name="AR: EL HAYAT" tvg-logo="https://docdog.top/logo/countries/arab/elhayat.png" group-title="ALGERIAN CHANNELS",AR: EL HAYAT
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/6379
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALGERIA 3" tvg-logo="https://docdog.top/logo/countries/arab/ALGERIA.png" group-title="ALGERIAN CHANNELS",AR: ALGERIA 3
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/6385
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALGERIE DIRECT" tvg-logo="https://docdog.top/logo/countries/arab/ALGERIEDIRECT.jpg" group-title="ALGERIAN CHANNELS",AR: ALGERIE DIRECT
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/6389
-#EXTINF:-1 tvg-id="" tvg-name="AR: EL HAYAT TV ALGERIE" tvg-logo="https://docdog.top/logo/countries/arab/ELHAYATTVALGERIE.png" group-title="ALGERIAN CHANNELS",AR: EL HAYAT TV ALGERIE
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/6391
-#EXTINF:-1 tvg-id="" tvg-name="AR: KBC ALGERIE" tvg-logo="https://docdog.top/logo/countries/arab/KBCALGERIE.png" group-title="ALGERIAN CHANNELS",AR: KBC ALGERIE
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/6392
-#EXTINF:-1 tvg-id="" tvg-name="AR: AL ANIS TV" tvg-logo="https://docdog.top/logo/countries/arab/alanistv.png" group-title="ALGERIAN CHANNELS",AR: AL ANIS TV
-http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/6393
+##############################
+# PPV (Pay-Per-View)
+##############################
+#EXTGRP:PPV
+#EXTINF:-1 tvg-id="" tvg-name="CH10" tvg-logo="" group-title="PPV",CH10
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/132304
 
-
+##############################
+# ES | CINE & SERIES VIP
+##############################
+#EXTGRP:ES | CINE & SERIES VIP
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS" tvg-logo="" group-title="ES | CINE & SERIES VIP",ES: M+ ESTRENOS
+http://vipttiic.top:8080/VIP01520171937190986/01851b0d2cce/132309
 
 
 #EXTGRP:ARAB VIP
