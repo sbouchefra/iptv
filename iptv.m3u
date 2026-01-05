@@ -734,37 +734,37 @@ http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1785.m3u8
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1115.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TN| AL MUSTAKILAH" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| AL MUSTAKILAH
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1111.m3u8
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="|AR| MBC 1" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="ARABES  ( العربية)",|AR| MBC 1
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="|AR| MBC 1" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="ARABES",|AR| MBC 1
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1786.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-name="|AR| MBC 1 HD" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 1 HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/94.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="|AR| MBC 2" tvg-logo="https://i.imgur.com/WBh4NGJ.png" group-title="ARABES  ( العربية)",|AR| MBC 2
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="|AR| MBC 2" tvg-logo="https://i.imgur.com/WBh4NGJ.png" group-title="ARABES",|AR| MBC 2
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1787.m3u8
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-name="|AR| MBC 2 HD" tvg-logo="https://i.imgur.com/WBh4NGJ.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 2 HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC 3" tvg-logo="https://i.imgur.com/qygieMO.png" group-title="ARABES  ( العربية)",|AR| MBC 3
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC 3" tvg-logo="https://i.imgur.com/qygieMO.png" group-title="ARABES",|AR| MBC 3
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1788.m3u8
 #EXTINF:-1 tvg-id="MBC3Ar.ae" tvg-name="|AR| MBC 3 HD" tvg-logo="https://i.imgur.com/qygieMO.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 3 HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/110.m3u8
-#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="|AR| MBC 4" tvg-logo="https://i.imgur.com/ItBKYL1.png" group-title="ARABES  ( العربية)",|AR| MBC 4
+#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="|AR| MBC 4" tvg-logo="https://i.imgur.com/ItBKYL1.png" group-title="ARABES",|AR| MBC 4
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1789.m3u8
 #EXTINF:-1 tvg-id="MBC4En.sa" tvg-name="|AR| MBC 4 HD" tvg-logo="https://i.imgur.com/ItBKYL1.png" group-title="OSN & MY HD (Arabic)",|AR| MBC 4 HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/319.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="|AR| MBC ACTION" tvg-logo="https://i.imgur.com/I4z3F0j.png" group-title="ARABES  ( العربية)",|AR| MBC ACTION
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="|AR| MBC ACTION" tvg-logo="https://i.imgur.com/I4z3F0j.png" group-title="ARABES",|AR| MBC ACTION
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/521.m3u8
 #EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="|AR| MBC ACTION HD" tvg-logo="https://i.imgur.com/I4z3F0j.png" group-title="OSN & MY HD (Arabic)",|AR| MBC ACTION HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2852.m3u8
-#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="|AR| MBC BOLLYWOOD" tvg-logo="https://i.imgur.com/xJMUYpD.png" group-title="ARABES  ( العربية)",|AR| MBC BOLLYWOOD
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="|AR| MBC BOLLYWOOD" tvg-logo="https://i.imgur.com/xJMUYpD.png" group-title="ARABES",|AR| MBC BOLLYWOOD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/320.m3u8
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="|AR| MBC MAX HD" tvg-logo="https://i.imgur.com/B22r6Zq.png" group-title="OSN & MY HD (Arabic)",|AR| MBC MAX HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/321.m3u8
-#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="|AR| MBC DRAMA" tvg-logo="https://i.imgur.com/ae0YnDx.png" group-title="ARABES  ( العربية)",|AR| MBC DRAMA
+#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="|AR| MBC DRAMA" tvg-logo="https://i.imgur.com/ae0YnDx.png" group-title="ARABES",|AR| MBC DRAMA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/215.m3u8
 #EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="|AR| MBC DRAMA FHD" tvg-logo="https://i.imgur.com/ae0YnDx.png" group-title="OSN & MY HD (Arabic)",|AR| MBC DRAMA FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2269.m3u8
-#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="|AR| MBC MASR 1" tvg-logo="https://i.imgur.com/3GTiYWF.png" group-title="ARABES  ( العربية)",|AR| MBC MASR 1
+#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="|AR| MBC MASR 1" tvg-logo="https://i.imgur.com/3GTiYWF.png" group-title="ARABES",|AR| MBC MASR 1
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/416.m3u8
-#EXTINF:-1 tvg-id="MBCMasr2En.eg" tvg-name="|AR| MBC MASR 2" tvg-logo="https://i.imgur.com/2kbbTap.png" group-title="ARABES  ( العربية)",|AR| MBC MASR 2
+#EXTINF:-1 tvg-id="MBCMasr2En.eg" tvg-name="|AR| MBC MASR 2" tvg-logo="https://i.imgur.com/2kbbTap.png" group-title="ARABES",|AR| MBC MASR 2
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/420.m3u8
 #EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="|AR| MBC DRAMA PLUS HD" tvg-logo="https://i.imgur.com/1V2ryze.png" group-title="OSN & MY HD (Arabic)",|AR| MBC DRAMA PLUS HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/616.m3u8
@@ -772,41 +772,41 @@ http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/616.m3u8
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2256.m3u8
 #EXTINF:-1 tvg-id="OSNFamily.ae" tvg-name="|AR| OSN FAMILY HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN FAMILY HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2254.m3u8
-#EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="|AR| ROTANA AFLAM HD" tvg-logo="http://i.imgur.com/wVGJeeq.png" group-title="ARABES  ( العربية)",|AR| ROTANA AFLAM HD
+#EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="|AR| ROTANA AFLAM HD" tvg-logo="http://i.imgur.com/wVGJeeq.png" group-title="ARABES",|AR| ROTANA AFLAM HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/385.m3u8
-#EXTINF:-1 tvg-id="RotanaKhalijiah.eg" tvg-name="|AR| ROTANA KHALIJIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA KHALIJIA
+#EXTINF:-1 tvg-id="RotanaKhalijiah.eg" tvg-name="|AR| ROTANA KHALIJIA" tvg-logo="" group-title="ARABES",|AR| ROTANA KHALIJIA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/598.m3u8
-#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="|AR| ROTANA CINEMA KSA" tvg-logo="http://i.imgur.com/pAw1ZYL.png" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA KSA
+#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="|AR| ROTANA CINEMA KSA" tvg-logo="http://i.imgur.com/pAw1ZYL.png" group-title="ARABES",|AR| ROTANA CINEMA KSA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/386.m3u8
-#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="|AR| ROTANA CINEMA EGY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA CINEMA EGY
+#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="|AR| ROTANA CINEMA EGY" tvg-logo="" group-title="ARABES",|AR| ROTANA CINEMA EGY
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1791.m3u8
-#EXTINF:-1 tvg-id="RotanaDramaAr.eg" tvg-name="|AR| ROTANA DRAMA HD" tvg-logo="http://i.imgur.com/5K4Qe0R.png" group-title="ARABES  ( العربية)",|AR| ROTANA DRAMA HD
+#EXTINF:-1 tvg-id="RotanaDramaAr.eg" tvg-name="|AR| ROTANA DRAMA HD" tvg-logo="http://i.imgur.com/5K4Qe0R.png" group-title="ARABES",|AR| ROTANA DRAMA HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/384.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic.eg" tvg-name="|AR| ROTANA CLASSIC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA CLASSIC
+#EXTINF:-1 tvg-id="RotanaClassic.eg" tvg-name="|AR| ROTANA CLASSIC" tvg-logo="" group-title="ARABES",|AR| ROTANA CLASSIC
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA CLIP" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ROTANA CLIP
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ROTANA CLIP" tvg-logo="" group-title="ARABES",|AR| ROTANA CLIP
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/599.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC MASR DRAMA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MBC MASR DRAMA HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC MASR DRAMA HD" tvg-logo="" group-title="ARABES",|AR| MBC MASR DRAMA HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AGHANI AGHANI HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AGHANI AGHANI HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AGHANI AGHANI HD" tvg-logo="" group-title="ARABES",|AR| AGHANI AGHANI HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ARABICA TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ARABICA TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ARABICA TV FHD" tvg-logo="" group-title="ARABES",|AR| ARABICA TV FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1784.m3u8
-#EXTINF:-1 tvg-id="ARTAflam1.sa" tvg-name="|AR| ART AFLAM 1" tvg-logo="http://i.imgur.com/r95iHs8.png" group-title="ARABES  ( العربية)",|AR| ART AFLAM 1
+#EXTINF:-1 tvg-id="ARTAflam1.sa" tvg-name="|AR| ART AFLAM 1" tvg-logo="http://i.imgur.com/r95iHs8.png" group-title="ARABES",|AR| ART AFLAM 1
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/352.m3u8
-#EXTINF:-1 tvg-id="ARTAflam2.sa" tvg-name="|AR| ART AFLAM 2" tvg-logo="http://i.imgur.com/b1GwAbc.png" group-title="ARABES  ( العربية)",|AR| ART AFLAM 2
+#EXTINF:-1 tvg-id="ARTAflam2.sa" tvg-name="|AR| ART AFLAM 2" tvg-logo="http://i.imgur.com/b1GwAbc.png" group-title="ARABES",|AR| ART AFLAM 2
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/353.m3u8
-#EXTINF:-1 tvg-id="Hekayat.sa" tvg-name="|AR| ART HEKAYAT 1" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART HEKAYAT 1
+#EXTINF:-1 tvg-id="Hekayat.sa" tvg-name="|AR| ART HEKAYAT 1" tvg-logo="" group-title="ARABES",|AR| ART HEKAYAT 1
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/647.m3u8
-#EXTINF:-1 tvg-id="Hekayat2.sa" tvg-name="|AR| ART HEKAYAT 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ART HEKAYAT 2
+#EXTINF:-1 tvg-id="Hekayat2.sa" tvg-name="|AR| ART HEKAYAT 2" tvg-logo="" group-title="ARABES",|AR| ART HEKAYAT 2
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/648.m3u8
-#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="|AR| MBC 5" tvg-logo="https://i.imgur.com/XotBHFv.png" group-title="ARABES  ( العربية)",|AR| MBC 5
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="|AR| MBC 5" tvg-logo="https://i.imgur.com/XotBHFv.png" group-title="ARABES",|AR| MBC 5
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/658.m3u8
-#EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-name="|AR| ZEE AFLAM" tvg-logo="http://i.imgur.com/diwNYkt.png" group-title="ARABES  ( العربية)",|AR| ZEE AFLAM
+#EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-name="|AR| ZEE AFLAM" tvg-logo="http://i.imgur.com/diwNYkt.png" group-title="ARABES",|AR| ZEE AFLAM
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ZEE ALWAN" tvg-logo="http://i.imgur.com/XDKqhCY.png" group-title="ARABES  ( العربية)",|AR| ZEE ALWAN
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ZEE ALWAN" tvg-logo="http://i.imgur.com/XDKqhCY.png" group-title="ARABES",|AR| ZEE ALWAN
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/413.m3u8
-#EXTINF:-1 tvg-id="B4UPlus.ae" tvg-name="|AR| B4U PLUS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| B4U PLUS
+#EXTINF:-1 tvg-id="B4UPlus.ae" tvg-name="|AR| B4U PLUS" tvg-logo="" group-title="ARABES",|AR| B4U PLUS
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1511.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|MA| LAAYOUN TV FHD" tvg-logo="https://i.imgur.com/XYS9g4x.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| LAAYOUN TV FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7083.m3u8
@@ -840,7 +840,7 @@ http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1205.m3u8
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1206.m3u8
 #EXTINF:-1 tvg-id="OSNMoviesAction.ae" tvg-name="|AR| OSN MOVIES ACTION HD" tvg-logo="http://content.osn.com/logo/channel/cropped/AHD.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MOVIES ACTION HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| TELE LIBAN HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/tele-liban-lb.png" group-title="ARABES  ( العربية)",|AR| TELE LIBAN HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TELE LIBAN HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/tele-liban-lb.png" group-title="ARABES",|AR| TELE LIBAN HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2770.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN SERIES CHANNEL HD" tvg-logo="http://content.osn.com/logo/channel/cropped/SER.png" group-title="OSN & MY HD (Arabic)",|AR| OSN SERIES CHANNEL HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7064.m3u8
@@ -870,17 +870,17 @@ http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7061.m3u8
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7069.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN LIVING HD" tvg-logo="http://content.osn.com/logo/channel/cropped/OLH.png" group-title="OSN & MY HD (Arabic)",|AR| OSN LIVING HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7070.m3u8
-#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="|AR| MTV LEBANON ONE TV HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES  ( العربية)",|AR| MTV LEBANON ONE TV HD
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="|AR| MTV LEBANON ONE TV HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES",|AR| MTV LEBANON ONE TV HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TIME SPORTS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ON TIME SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TIME SPORTS" tvg-logo="" group-title="ARABES",|AR| ON TIME SPORTS
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD RAWDA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD RAWDA
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD RAWDA" tvg-logo="" group-title="ARABES",|AR| AL MAJD RAWDA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7090.m3u8
 #EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="|TOD| EVENT SPORTS 6 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 6 FHD (EXCLUS)
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2664.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN E! HD" tvg-logo="http://content.osn.com/logo/channel/cropped/ETV.png" group-title="OSN & MY HD (Arabic)",|AR| OSN E! HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD TAGHAREED" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD TAGHAREED
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD TAGHAREED" tvg-logo="" group-title="ARABES",|AR| AL MAJD TAGHAREED
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7072.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MUSIC NOW HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/alfa-music-now-ae.png" group-title="OSN & MY HD (Arabic)",|AR| OSN MUSIC NOW HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7063.m3u8
@@ -890,69 +890,69 @@ http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7085.m3u8
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7084.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN BABY HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN BABY HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/963.m3u8
-#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="|AR| DUBAI HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-tv-ae.png" group-title="ARABES  ( العربية)",|AR| DUBAI HD
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="|AR| DUBAI HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-tv-ae.png" group-title="ARABES",|AR| DUBAI HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| DUBAI ONE FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-one-ae.png" group-title="ARABES  ( العربية)",|AR| DUBAI ONE FHD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DUBAI ONE FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-one-ae.png" group-title="ARABES",|AR| DUBAI ONE FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/682.m3u8
-#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-name="|AR| DUBAI ZAMAN" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-zaman-ae.png" group-title="ARABES  ( العربية)",|AR| DUBAI ZAMAN
+#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-name="|AR| DUBAI ZAMAN" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/dubai-zaman-ae.png" group-title="ARABES",|AR| DUBAI ZAMAN
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/590.m3u8
 #EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|AR| BEIN SPORTS 2 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 2 HEVC
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/683.m3u8
-#EXTINF:-1 tvg-id="AbuDhabi.ae" tvg-name="|AR| ABU DHABI TV HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="ARABES  ( العربية)",|AR| ABU DHABI TV HD
+#EXTINF:-1 tvg-id="AbuDhabi.ae" tvg-name="|AR| ABU DHABI TV HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="ARABES",|AR| ABU DHABI TV HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2804.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="|AR| ABU DHABI SPORTS 2 HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_2.png" group-title="AD SPORTS | STARZPLAY | SHASHA | ALRABIAA",|AR| ABU DHABI SPORTS 2 HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN AMEN" tvg-logo="" group-title="ARABES  ( العربية)",|AR| JORDAN AMEN
+#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN AMEN" tvg-logo="" group-title="ARABES",|AR| JORDAN AMEN
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN SAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| JORDAN SAMA
+#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN SAMA" tvg-logo="" group-title="ARABES",|AR| JORDAN SAMA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/5409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN SPORT" tvg-logo="" group-title="ARABES  ( العربية)",|AR| JORDAN SPORT
+#EXTINF:-1 tvg-id="" tvg-name="|AR| JORDAN SPORT" tvg-logo="" group-title="ARABES",|AR| JORDAN SPORT
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1779.m3u8
-#EXTINF:-1 tvg-id="LBC.lb" tvg-name="|AR| LBC HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LBC HD
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="|AR| LBC HD" tvg-logo="" group-title="ARABES",|AR| LBC HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/680.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JADEED" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL JADEED
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JADEED" tvg-logo="" group-title="ARABES",|AR| AL JADEED
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/5973.m3u8
-#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="|AR| MTV LEBANON" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES  ( العربية)",|AR| MTV LEBANON
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="|AR| MTV LEBANON" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/mtv-lebanon-lb.png" group-title="ARABES",|AR| MTV LEBANON
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/684.m3u8
-#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="|AR| AL HAYAT HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL HAYAT HD
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="|AR| AL HAYAT HD" tvg-logo="" group-title="ARABES",|AR| AL HAYAT HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/5089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL HAYAT FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL HAYAT FHD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL HAYAT FHD" tvg-logo="" group-title="ARABES",|AR| AL HAYAT FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/5088.m3u8
-#EXTINF:-1 tvg-id="CBC.eg" tvg-name="|AR| CBC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CBC
+#EXTINF:-1 tvg-id="CBC.eg" tvg-name="|AR| CBC" tvg-logo="" group-title="ARABES",|AR| CBC
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/699.m3u8
-#EXTINF:-1 tvg-id="CBCDrama.eg" tvg-name="|AR| CBC DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CBC DRAMA
+#EXTINF:-1 tvg-id="CBCDrama.eg" tvg-name="|AR| CBC DRAMA" tvg-logo="" group-title="ARABES",|AR| CBC DRAMA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| CBC EXTRA NEWS" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CBC EXTRA NEWS
+#EXTINF:-1 tvg-id="" tvg-name="|AR| CBC EXTRA NEWS" tvg-logo="" group-title="ARABES",|AR| CBC EXTRA NEWS
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1795.m3u8
-#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-name="|AR| CBC SOFRA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| CBC SOFRA
+#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-name="|AR| CBC SOFRA" tvg-logo="" group-title="ARABES",|AR| CBC SOFRA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/701.m3u8
-#EXTINF:-1 tvg-id="NBN.lb" tvg-name="|AR| NBN HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/nbn-lb.png" group-title="ARABES  ( العربية)",|AR| NBN HD
+#EXTINF:-1 tvg-id="NBN.lb" tvg-name="|AR| NBN HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/nbn-lb.png" group-title="ARABES",|AR| NBN HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1299.m3u8
-#EXTINF:-1 tvg-id="NileCinema.eg" tvg-name="|AR| NILE CINEMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE CINEMA
+#EXTINF:-1 tvg-id="NileCinema.eg" tvg-name="|AR| NILE CINEMA" tvg-logo="" group-title="ARABES",|AR| NILE CINEMA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/686.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE COMEDY" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NILE COMEDY" tvg-logo="" group-title="ARABES",|AR| NILE COMEDY
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/687.m3u8
-#EXTINF:-1 tvg-id="NileDrama.eg" tvg-name="|AR| NILE DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE DRAMA
+#EXTINF:-1 tvg-id="NileDrama.eg" tvg-name="|AR| NILE DRAMA" tvg-logo="" group-title="ARABES",|AR| NILE DRAMA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/685.m3u8
-#EXTINF:-1 tvg-id="NileLife.eg" tvg-name="|AR| NILE LIFE" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE LIFE
+#EXTINF:-1 tvg-id="NileLife.eg" tvg-name="|AR| NILE LIFE" tvg-logo="" group-title="ARABES",|AR| NILE LIFE
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1300.m3u8
-#EXTINF:-1 tvg-id="NileSport.eg" tvg-name="|AR| NILE SPORTS HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| NILE SPORTS HD
+#EXTINF:-1 tvg-id="NileSport.eg" tvg-name="|AR| NILE SPORTS HD" tvg-logo="" group-title="ARABES",|AR| NILE SPORTS HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/725.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NAHAR DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL NAHAR DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NAHAR DRAMA" tvg-logo="" group-title="ARABES",|AR| AL NAHAR DRAMA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASRIYA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MASRIYA
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MASRIYA" tvg-logo="" group-title="ARABES",|AR| AL MASRIYA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KAHERA WAL NASS 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL KAHERA WAL NASS 2
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL KAHERA WAL NASS 2" tvg-logo="" group-title="ARABES",|AR| AL KAHERA WAL NASS 2
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA AL AHRAR FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| LIBYA AL AHRAR FHD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA AL AHRAR FHD" tvg-logo="" group-title="ARABES",|AR| LIBYA AL AHRAR FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1794.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ON TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON TV" tvg-logo="" group-title="ARABES",|AR| ON TV
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/728.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ON SPORT TV" tvg-logo="http://i.imgur.com/e8kfi0W.png" group-title="ARABES  ( العربية)",|AR| ON SPORT TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON SPORT TV" tvg-logo="http://i.imgur.com/e8kfi0W.png" group-title="ARABES",|AR| ON SPORT TV
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/729.m3u8
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| ENTV (PROGRAMME NATIONAL) HD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENTV (PROGRAMME NATIONAL) HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1783.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| O-TV HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| O-TV HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| O-TV HD" tvg-logo="" group-title="ARABES",|AR| O-TV HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1769.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN DISCOVERY ID HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN DISCOVERY ID HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2252.m3u8
@@ -962,41 +962,41 @@ http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2253.m3u8
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1445.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="|AR| ABU DHABI SPORTS 2 FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/AD_Sports_2.png" group-title="AD SPORTS | STARZPLAY | SHASHA | ALRABIAA",|AR| ABU DHABI SPORTS 2 FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAYADEEN TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAYADEEN TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAYADEEN TV" tvg-logo="" group-title="ARABES",|AR| AL MAYADEEN TV
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/760.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL RASHEED FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL RASHEED FHD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL RASHEED FHD" tvg-logo="" group-title="ARABES",|AR| AL RASHEED FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/759.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DMC DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC DRAMA" tvg-logo="" group-title="ARABES",|AR| DMC DRAMA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/5094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DMC HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DMC HD" tvg-logo="" group-title="ARABES",|AR| DMC HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/5093.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| MY HD FOX LIFE HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| MY HD FOX LIFE HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL QUDS TODAY TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL QUDS TODAY TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL QUDS TODAY TV" tvg-logo="" group-title="ARABES",|AR| AL QUDS TODAY TV
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/761.m3u8
-#EXTINF:-1 tvg-id="QatarTV.qa" tvg-name="|AR| QATAR TV HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/qatar-tv-ae.png" group-title="ARABES  ( العربية)",|AR| QATAR TV HD
+#EXTINF:-1 tvg-id="QatarTV.qa" tvg-name="|AR| QATAR TV HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/qatar-tv-ae.png" group-title="ARABES",|AR| QATAR TV HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/5403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| PALESTINE PFC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PALESTINE PFC
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PALESTINE PFC" tvg-logo="" group-title="ARABES",|AR| PALESTINE PFC
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/758.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PANORAMA DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA DRAMA" tvg-logo="" group-title="ARABES",|AR| PANORAMA DRAMA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/766.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA DRAMA 2" tvg-logo="" group-title="ARABES  ( العربية)",|AR| PANORAMA DRAMA 2
+#EXTINF:-1 tvg-id="" tvg-name="|AR| PANORAMA DRAMA 2" tvg-logo="" group-title="ARABES",|AR| PANORAMA DRAMA 2
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV 1 HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWEIT TV 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV 1 HD" tvg-logo="" group-title="ARABES",|AR| KUWEIT TV 1 HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1773.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|FR| BASKET BETCLIC 1 FHD (LIVE UNIQUEMENT)" tvg-logo="https://i.imgur.com/pghiBwf.png" group-title="FR SPORTS ( PRIME NBA TV | F1 TV | BETCLIC | SKWEEK| LNB)",|FR| BASKET BETCLIC 1 FHD (LIVE UNIQUEMENT)
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV AL.ARABI FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWEIT TV AL.ARABI FHD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV AL.ARABI FHD" tvg-logo="" group-title="ARABES",|AR| KUWEIT TV AL.ARABI FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1776.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|FR| BASKET BETCLIC 2 FHD (LIVE UNIQUEMENT)" tvg-logo="https://i.imgur.com/pghiBwf.png" group-title="FR SPORTS ( PRIME NBA TV | F1 TV | BETCLIC | SKWEEK| LNB)",|FR| BASKET BETCLIC 2 FHD (LIVE UNIQUEMENT)
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1778.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV ETHRAA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| KUWEIT TV ETHRAA HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWEIT TV ETHRAA HD" tvg-logo="" group-title="ARABES",|AR| KUWEIT TV ETHRAA HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1777.m3u8
 #EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="|TOD| EVENT SPORTS 5 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 5 FHD (EXCLUS)
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1774.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| RT ARABIC FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| RT ARABIC FHD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| RT ARABIC FHD" tvg-logo="" group-title="ARABES",|AR| RT ARABIC FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJLIS FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJLIS FHD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJLIS FHD" tvg-logo="" group-title="ARABES",|AR| AL MAJLIS FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1772.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|MA| ASSABIA 7 TV FHD" tvg-logo="https://i.imgur.com/3E5nP0Y.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ASSABIA 7 TV FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1768.m3u8
@@ -1006,85 +1006,85 @@ http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1763.m3u8
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1764.m3u8
 #EXTINF:-1 tvg-id="AlKassFour.qa" tvg-name="|AR| AL KASS FOUR FHD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| AL KASS FOUR FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI 1 HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png" group-title="ARABES  ( العربية)",|AR| SAUDI 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI 1 HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/al-saudiya-ae.png" group-title="ARABES",|AR| SAUDI 1 HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA CHANNEL FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SYRIA CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA CHANNEL FHD" tvg-logo="" group-title="ARABES",|AR| SYRIA CHANNEL FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/726.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA DRAMA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SYRIA DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA DRAMA" tvg-logo="" group-title="ARABES",|AR| SYRIA DRAMA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/727.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MIX HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN MIX HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAMA SYRIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAMA SYRIA
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAMA SYRIA" tvg-logo="" group-title="ARABES",|AR| SAMA SYRIA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/768.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="|AR| AL JAZEERA FHD" tvg-logo="http://i.imgur.com/jLxN3D8.png" group-title="ARABES  ( العربية)",|AR| AL JAZEERA FHD
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="|AR| AL JAZEERA FHD" tvg-logo="http://i.imgur.com/jLxN3D8.png" group-title="ARABES",|AR| AL JAZEERA FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/6057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JAZEERA ENGLISH HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL JAZEERA ENGLISH HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JAZEERA ENGLISH HD" tvg-logo="" group-title="ARABES",|AR| AL JAZEERA ENGLISH HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7028.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="|AR| AL JAZEERA MUBASHER" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL JAZEERA MUBASHER
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="|AR| AL JAZEERA MUBASHER" tvg-logo="" group-title="ARABES",|AR| AL JAZEERA MUBASHER
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7029.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="|AR| AL JAZEERA MUBASHER 2 HD" tvg-logo="http://i.imgur.com/jLxN3D8.png" group-title="ARABES  ( العربية)",|AR| AL JAZEERA MUBASHER 2 HD
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-name="|AR| AL JAZEERA MUBASHER 2 HD" tvg-logo="http://i.imgur.com/jLxN3D8.png" group-title="ARABES",|AR| AL JAZEERA MUBASHER 2 HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/269.m3u8
-#EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="|AR| AL ARABIYA HD" tvg-logo="http://i.imgur.com/bztmSXX.png" group-title="ARABES  ( العربية)",|AR| AL ARABIYA HD
+#EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="|AR| AL ARABIYA HD" tvg-logo="http://i.imgur.com/bztmSXX.png" group-title="ARABES",|AR| AL ARABIYA HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| FRANCE 24 HD" tvg-logo="http://i.imgur.com/jELYlh5.png" group-title="ARABES  ( العربية)",|AR| FRANCE 24 HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FRANCE 24 HD" tvg-logo="http://i.imgur.com/jELYlh5.png" group-title="ARABES",|AR| FRANCE 24 HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SKY NEWS ARABIYA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SKY NEWS ARABIYA HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SKY NEWS ARABIYA HD" tvg-logo="" group-title="ARABES",|AR| SKY NEWS ARABIYA HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| EURONEWS" tvg-logo="http://i.imgur.com/eoxsyGr.png" group-title="ARABES  ( العربية)",|AR| EURONEWS
+#EXTINF:-1 tvg-id="" tvg-name="|AR| EURONEWS" tvg-logo="http://i.imgur.com/eoxsyGr.png" group-title="ARABES",|AR| EURONEWS
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/871.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| TRT ARABIYA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| TRT ARABIYA
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TRT ARABIYA" tvg-logo="" group-title="ARABES",|AR| TRT ARABIYA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| DW TV ARABIA" tvg-logo="" group-title="ARABES  ( العربية)",|AR| DW TV ARABIA
+#EXTINF:-1 tvg-id="" tvg-name="|AR| DW TV ARABIA" tvg-logo="" group-title="ARABES",|AR| DW TV ARABIA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/869.m3u8
-#EXTINF:-1 tvg-id="AlAan.ae" tvg-name="|AR| SAUDIA ALAAN TV FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDIA ALAAN TV FHD
+#EXTINF:-1 tvg-id="AlAan.ae" tvg-name="|AR| SAUDIA ALAAN TV FHD" tvg-logo="" group-title="ARABES",|AR| SAUDIA ALAAN TV FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/755.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BBC NEWS ARABIA FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/international/bbc-news-arabic-white-hz-int.png" group-title="ARABES  ( العربية)",|AR| BBC NEWS ARABIA FHD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BBC NEWS ARABIA FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/international/bbc-news-arabic-white-hz-int.png" group-title="ARABES",|AR| BBC NEWS ARABIA FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/754.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="|AR| AL JAZEERA DOCUMENTARY HD" tvg-logo="http://i.imgur.com/br8qG1j.png" group-title="ARABES  ( العربية)",|AR| AL JAZEERA DOCUMENTARY HD
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="|AR| AL JAZEERA DOCUMENTARY HD" tvg-logo="http://i.imgur.com/br8qG1j.png" group-title="ARABES",|AR| AL JAZEERA DOCUMENTARY HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/345.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="|AR| NATIONAL GEO AD FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="ARABES  ( العربية)",|AR| NATIONAL GEO AD FHD
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="|AR| NATIONAL GEO AD FHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="ARABES",|AR| NATIONAL GEO AD FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/332.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="|AR| NATIONAL GEO AD HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="ARABES  ( العربية)",|AR| NATIONAL GEO AD HD
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="|AR| NATIONAL GEO AD HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="ARABES",|AR| NATIONAL GEO AD HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| IQRA" tvg-logo="http://i.imgur.com/TRcKrY9.png" group-title="ARABES  ( العربية)",|AR| IQRA
+#EXTINF:-1 tvg-id="" tvg-name="|AR| IQRA" tvg-logo="http://i.imgur.com/TRcKrY9.png" group-title="ARABES",|AR| IQRA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD NATURAL" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD NATURAL
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD NATURAL" tvg-logo="" group-title="ARABES",|AR| AL MAJD NATURAL
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD 1 FHD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD 1 FHD" tvg-logo="" group-title="ARABES",|AR| AL MAJD 1 FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7032.m3u8
 #EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|TOD| EVENT SPORTS 9 FHD (EXCLUS)" tvg-logo="https://i.imgur.com/6sw7Up6.png" group-title="TOD | BEIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT SPORTS 9 FHD (EXCLUS)
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2250.m3u8
-#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="|AR| AL RESALA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL RESALA HD
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="|AR| AL RESALA HD" tvg-logo="" group-title="ARABES",|AR| AL RESALA HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/649.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NASS TV" tvg-logo="http://i.imgur.com/75ZwdOa.png" group-title="ARABES  ( العربية)",|AR| AL NASS TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL NASS TV" tvg-logo="http://i.imgur.com/75ZwdOa.png" group-title="ARABES",|AR| AL NASS TV
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ZAD TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| ZAD TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ZAD TV" tvg-logo="" group-title="ARABES",|AR| ZAD TV
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/7233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI QURAN HD" tvg-logo="http://i.imgur.com/akthN6N.png" group-title="ARABES  ( العربية)",|AR| SAUDI QURAN HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAUDI QURAN HD" tvg-logo="http://i.imgur.com/akthN6N.png" group-title="ARABES",|AR| SAUDI QURAN HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/272.m3u8
-#EXTINF:-1 tvg-id="Sunnah.sa" tvg-name="|AR| SAUDI SUNNA HD" tvg-logo="" group-title="ARABES  ( العربية)",|AR| SAUDI SUNNA HD
+#EXTINF:-1 tvg-id="Sunnah.sa" tvg-name="|AR| SAUDI SUNNA HD" tvg-logo="" group-title="ARABES",|AR| SAUDI SUNNA HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MAKKAH TV" tvg-logo="" group-title="ARABES  ( العربية)",|AR| MAKKAH TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MAKKAH TV" tvg-logo="" group-title="ARABES",|AR| MAKKAH TV
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/757.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD QURAN" tvg-logo="http://i.imgur.com/nyWnWq8.png" group-title="ARABES  ( العربية)",|AR| AL MAJD QURAN
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD QURAN" tvg-logo="http://i.imgur.com/nyWnWq8.png" group-title="ARABES",|AR| AL MAJD QURAN
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MANAR" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/al-manar-lb.png" group-title="ARABES  ( العربية)",|AR| AL MANAR
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MANAR" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/lebanon/al-manar-lb.png" group-title="ARABES",|AR| AL MANAR
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL INSEN" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL INSEN
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL INSEN" tvg-logo="" group-title="ARABES",|AR| AL INSEN
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1780.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SPACETOON" tvg-logo="http://i.imgur.com/eHw38xa.png" group-title="ARABES  ( العربية)",|AR| SPACETOON
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SPACETOON" tvg-logo="http://i.imgur.com/eHw38xa.png" group-title="ARABES",|AR| SPACETOON
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/568.m3u8
 #EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 HEVC" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 1 HEVC
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/583.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.qa" tvg-name="|AR| CARTOON NETWORK ARABIA" tvg-logo="http://i.imgur.com/QznQYb7.png" group-title="ARABES  ( العربية)",|AR| CARTOON NETWORK ARABIA
+#EXTINF:-1 tvg-id="CartoonNetwork.qa" tvg-name="|AR| CARTOON NETWORK ARABIA" tvg-logo="http://i.imgur.com/QznQYb7.png" group-title="ARABES",|AR| CARTOON NETWORK ARABIA
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| TOYOR EL JANNAH" tvg-logo="http://i.imgur.com/qG3sWFM.png" group-title="ARABES  ( العربية)",|AR| TOYOR EL JANNAH
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TOYOR EL JANNAH" tvg-logo="http://i.imgur.com/qG3sWFM.png" group-title="ARABES",|AR| TOYOR EL JANNAH
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| TOYOR BABY" tvg-logo="http://i.imgur.com/tGjib1L.png" group-title="ARABES  ( العربية)",|AR| TOYOR BABY
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TOYOR BABY" tvg-logo="http://i.imgur.com/tGjib1L.png" group-title="ARABES",|AR| TOYOR BABY
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD HADITH" tvg-logo="" group-title="ARABES  ( العربية)",|AR| AL MAJD HADITH
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD HADITH" tvg-logo="" group-title="ARABES",|AR| AL MAJD HADITH
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1766.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| GULLI ARABIC" tvg-logo="" group-title="ARABES  ( العربية)",|AR| GULLI ARABIC
+#EXTINF:-1 tvg-id="" tvg-name="|AR| GULLI ARABIC" tvg-logo="" group-title="ARABES",|AR| GULLI ARABIC
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/679.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN BOOMERANG HD" tvg-logo="" group-title="OSN & MY HD (Arabic)",|AR| OSN BOOMERANG HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1090.m3u8
