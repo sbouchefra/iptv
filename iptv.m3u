@@ -333,7 +333,6 @@ http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/547.m3u8
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/548.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 6 HD" tvg-logo="http://i.imgur.com/sAjnovX.png" group-title="FR TV HD (France)",|FR| A LA CARTE 6 HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="------▼|FR|-SPORTS-|FR|▼------" tvg-logo="" group-title="",------▼|FR|-SPORTS-|FR|▼------
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/938.m3u8
 #EXTINF:-1 tvg-id="InfoSportPlus.fr" tvg-name="|FR| INFOSPORT+ HD" tvg-logo="http://i.imgur.com/C0mrARk.png" group-title="FR SPORTS (France)",|FR| INFOSPORT+ HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1558.m3u8
@@ -445,7 +444,6 @@ http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1444.m3u8
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2720.m3u8
 #EXTINF:-1 tvg-id="PlaySportsHD3.be" tvg-name="|BE| PLAY SPORT 3 FHD" tvg-logo="https://i.imgur.com/6btGfU7.png" group-title="BELGES (FR-SPORTS-FLAMAND)",|BE| PLAY SPORT 3 FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/2721.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="------▼|BE|-CHAINES.BELGES|BE|▼------" tvg-logo="" group-title="",------▼|BE|-CHAINES.BELGES|BE|▼------
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/609.m3u8
 #EXTINF:-1 tvg-id="LaUne.be" tvg-name="|BE| LA UNE FHD" tvg-logo="https://i.imgur.com/S5lzRBj.png" group-title="BELGES (FR-SPORTS-FLAMAND)",|BE| LA UNE FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/335.m3u8
@@ -485,8 +483,6 @@ http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1412.m3u8
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/588.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|CH| CARAC 3 HD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/switzerland/carac3-ch.png" group-title="SUISSES (SWITZERLAND)",|CH| CARAC 3 HD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="------▼|BEIN|-BEIN.SPORTS-FR-AR|BEIN|▼------" tvg-logo="" group-title="",------▼|BEIN|-BEIN.SPORTS-FR-AR|BEIN|▼------
-http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/837.m3u8
 #EXTINF:-1 tvg-id="beinSports1.fr" tvg-name="|FR| BEIN SPORTS 1 LOW" tvg-logo="https://i.imgur.com/6ZqRrYp.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 1 LOW
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/4417.m3u8
 #EXTINF:-1 tvg-id="beinSports1.fr" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="https://i.imgur.com/6ZqRrYp.png" group-title="FR SPORTS (France)",|FR| BEIN SPORTS 1 HD
@@ -619,8 +615,6 @@ http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/111.m3u8
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/346.m3u8
 #EXTINF:-1 tvg-id="beINSeries2.qa" tvg-name="|AR| BEIN SERIES 2 FHD" tvg-logo="" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SERIES 2 FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/3147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="------▼|AE|-CHAINES.MAGHREBINE-|AE|▼------" tvg-logo="" group-title="",------▼|AE|-CHAINES.MAGHREBINE-|AE|▼------
-http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/197.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|DZ| ENTV (PROGRAMME NATIONAL) FHD" tvg-logo="https://i.imgur.com/UPECPKc.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| ENTV (PROGRAMME NATIONAL) FHD
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/171.m3u8
 #EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-name="|DZ| CANAL ALGERIE" tvg-logo="http://i.imgur.com/pOE3cTT.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|DZ| CANAL ALGERIE
@@ -741,7 +735,6 @@ http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1785.m3u8
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1115.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TN| AL MUSTAKILAH" tvg-logo="" group-title="MAGHRÈBINES (DZ/MA/TN)",|TN| AL MUSTAKILAH
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="------▼|AE|-CHAINES.ARABE-|AE|▼------" tvg-logo="" group-title="",------▼|AE|-CHAINES.ARABE-|AE|▼------
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/199.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-name="|AR| MBC 1" tvg-logo="https://i.imgur.com/YO6kFsp.png" group-title="ARABES  ( العربية)",|AR| MBC 1
 http://r665.io:80/live/Khaldoun-imarat/hN1tWG3/1786.m3u8
