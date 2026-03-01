@@ -1,21 +1,905 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tf1.fr" tvg-name="|FR| TF1 HD" tvg-logo="http://play.xsmp.xyz/logos/tf1-fr.png" group-title="FR TV HD",|FR| TF1 HD
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="|FR| TF1 HD" tvg-logo="http://play.xsmp.xyz/logos/tf1-fr.png" group-title="FR TV HD (France)",|FR| TF1 HD
 http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99248
-#EXTINF:-1 tvg-id="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="http://play.xsmp.xyz/logos/tf1-fr.png" group-title="FR TV FULL HD",|FR| TF1 FHD
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="http://play.xsmp.xyz/logos/tf1-fr.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 FHD
 http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99249
-#EXTINF:-1 tvg-id="france2.fr" tvg-name="|FR| FRANCE 2 HD" tvg-logo="http://play.xsmp.xyz/logos/france-2-fr.png" group-title="FR TV HD",|FR| FRANCE 2 HD
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="|FR| FRANCE 2 HD" tvg-logo="http://play.xsmp.xyz/logos/france-2-fr.png" group-title="FR TV HD (France)",|FR| FRANCE 2 HD
 http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99259
-#EXTINF:-1 tvg-id="france3.fr" tvg-name="|FR| FRANCE 3 HD" tvg-logo="http://play.xsmp.xyz/logos/france-3-fr.png" group-title="FR TV HD",|FR| FRANCE 3 HD
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="http://play.xsmp.xyz/logos/france-2-fr.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 2 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99260
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="|FR| FRANCE 3 HD" tvg-logo="http://play.xsmp.xyz/logos/france-3-fr.png" group-title="FR TV HD (France)",|FR| FRANCE 3 HD
 http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99261
-#EXTINF:-1 tvg-id="m6.fr" tvg-name="|FR| M6 FHD" tvg-logo="http://play.xsmp.xyz/logos/m6-fr.png" group-title="FR TV FULL HD",|FR| M6 FHD
-http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99257
-#EXTINF:-1 tvg-id="arte.fr" tvg-name="|FR| ARTE HD" tvg-logo="" group-title="FR TV HD",|FR| ARTE HD
-http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99338
-#EXTINF:-1 tvg-id="w9.fr" tvg-name="|FR| W9 HD" tvg-logo="http://play.xsmp.xyz/logos/w9.png" group-title="FR TV HD",|FR| W9 HD
-http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99253
-#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="|FR| RTL9 HD" tvg-logo="http://play.xsmp.xyz/logos/rtl9-fr.png" group-title="FR TV HD",|FR| RTL9 HD
-http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99252
-#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="|FR| BFMTV HD" tvg-logo="" group-title="FR TV HD",|FR| BFMTV HD
-http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99275
-#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="|FR| CANAL+ HD" tvg-logo="" group-title="FR CINEMA",|FR| CANAL+ HD
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="http://play.xsmp.xyz/logos/france-3-fr.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99262
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="|FR| Canal+  HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Canal+  HD
 http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99293
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="|FR| FRANCE 5 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| FRANCE 5 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99265
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 5 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99266
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="|FR| M6 FHD" tvg-logo="http://play.xsmp.xyz/logos/m6-fr.png" group-title="FR TV FULL HD|4K  (France)",|FR| M6 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99257
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="|FR| M6" tvg-logo="http://play.xsmp.xyz/logos/m6-fr.png" group-title="FR TV HD (France)",|FR| M6
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99258
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="|FR| ARTE HD" tvg-logo="" group-title="FR TV HD (France)",|FR| ARTE HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99338
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="|FR| ARTE FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| ARTE FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99344
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="|FR| C8 HD" tvg-logo="http://play.xsmp.xyz/logos/c8-fr.png" group-title="FR TV HD (France)",|FR| C8 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99255
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="|FR| C8 HD" tvg-logo="http://play.xsmp.xyz/logos/c8-fr.png" group-title="FR TV HD (France)",|FR| C8 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99256
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="|FR| W9 HD" tvg-logo="http://play.xsmp.xyz/logos/w9.png" group-title="FR TV HD (France)",|FR| W9 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99253
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="|FR| TV5 MONDE HD" tvg-logo="http://play.xsmp.xyz/logos/tv5-monde-int.png" group-title="FR TV HD (France)",|FR| TV5 MONDE HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99250
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="|FR| TV5 MONDE INFO HD" tvg-logo="http://play.xsmp.xyz/logos/tv5-monde-int.png" group-title="FR TV HD (France)",|FR| TV5 MONDE INFO HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99251
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="|FR| RTL9 HD" tvg-logo="http://play.xsmp.xyz/logos/rtl9-fr.png" group-title="FR TV HD (France)",|FR| RTL9 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99252
+#EXTINF:-1 tvg-id="13emerue.fr" tvg-name="|FR| 13EME RUE HD" tvg-logo="http://play.xsmp.xyz/logos/13eme-rue-be.png" group-title="FR TV HD (France)",|FR| 13EME RUE HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99254
+#EXTINF:-1 tvg-id="LCI - La Chaine Info FR" tvg-name="|FR| LCI HD" tvg-logo="http://play.xsmp.xyz/logos/lci-fr.png" group-title="FR TV HD (France)",|FR| LCI HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99247
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="|FR| FRANCE 4 HD" tvg-logo="http://play.xsmp.xyz/logos/france-4-fr.png" group-title="FR TV HD (France)",|FR| FRANCE 4 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99263
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="http://play.xsmp.xyz/logos/france-4-fr.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 4 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99264
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="|FR| CHERIE 25 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| CHERIE 25 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99267
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="|FR| CHERIE 25 FHD+" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| CHERIE 25 FHD+
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99268
+#EXTINF:-1 tvg-id="equidialive.fr" tvg-name="|FR| EQUIDIA LIFE" tvg-logo="" group-title="FR TV HD (France)",|FR| EQUIDIA LIFE
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99269
+#EXTINF:-1 tvg-id="equidialive.fr" tvg-name="|FR| EQUIDIA live" tvg-logo="" group-title="FR TV HD (France)",|FR| EQUIDIA live
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99270
+#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE HD" tvg-logo="" group-title="FR TV HD (France)",|FR| PARIS PREMIERE HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99271
+#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| PARIS PREMIERE FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99272
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="|FR| TEVA HD" tvg-logo="" group-title="FR TV HD (France)",|FR| TEVA HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99273
+#EXTINF:-1 tvg-id="" tvg-name="|FR| La une HD" tvg-logo="" group-title="FR TV HD (France)",|FR| La une HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99274
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="|FR| BFMTV HD" tvg-logo="" group-title="FR TV HD (France)",|FR| BFMTV HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99275
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="|FR| TFX FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| TFX FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99276
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER HD" tvg-logo="" group-title="FR TV HD (France)",|FR| 6TER HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99277
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="|FR| L'EQUIPE HD" tvg-logo="" group-title="FR TV HD (France)",|FR| L'EQUIPE HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99278
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE CINEMA" tvg-logo="" group-title="FR TV HD (France)",|FR| FRANCE CINEMA
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99279
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="|FR| Canal + Cinema HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Canal + Cinema HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99280
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="|FR| Canal+ Cinema FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Canal+ Cinema FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99281
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="|FR| Cine Emotion HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Cine Emotion HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99282
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="|FR| Cine Emotion FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Cine Emotion FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99283
+#EXTINF:-1 tvg-id="cineplusfamiz.fr" tvg-name="|FR| Cine + Famiz HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Cine + Famiz HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99284
+#EXTINF:-1 tvg-id="cineplusfamiz.fr" tvg-name="|FR| Cine + Famiz FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Cine + Famiz FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99285
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="|FR| Cine + Frisson HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Cine + Frisson HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99286
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="|FR| Cine + Frisson FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Cine + Frisson FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99287
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="|FR| Cine + Premier HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Cine + Premier HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99288
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="|FR| Cine + Premier FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Cine + Premier FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99289
+#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="|FR| Canal + Decale HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Canal + Decale HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99290
+#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="|FR| Canal + Decale FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Canal + Decale FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99291
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="|FR| Cine + Club HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Cine + Club HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99292
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="|FR| Canal + Family FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Canal + Family FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99294
+#EXTINF:-1 tvg-id="PolarPlus" tvg-name="|FR| Cine Polar + HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Cine Polar + HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99295
+#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="|FR| COMEDIE+ HD" tvg-logo="" group-title="FR TV HD (France)",|FR| COMEDIE+ HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99296
+#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="|FR| Comedie + FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Comedie + FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99297
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="|FR| OCS MAX HD" tvg-logo="" group-title="FR TV HD (France)",|FR| OCS MAX HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99298
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="|FR| OCS CHOC HD" tvg-logo="" group-title="FR TV HD (France)",|FR| OCS CHOC HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99299
+#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="|FR| OCS CITY" tvg-logo="" group-title="FR TV HD (France)",|FR| OCS CITY
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99300
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="|FR| OCS GEANT" tvg-logo="" group-title="FR TV HD (France)",|FR| OCS GEANT
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99301
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="|FR| TCM Cinema HD" tvg-logo="" group-title="FR TV HD (France)",|FR| TCM Cinema HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99302
+#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 1 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| A LA CARTE 1 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99303
+#EXTINF:-1 tvg-id="" tvg-name="|FR| A.LA.CARTE.3" tvg-logo="" group-title="FR TV HD (France)",|FR| A.LA.CARTE.3
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99304
+#EXTINF:-1 tvg-id="" tvg-name="|FR| A.LA.CARTE.4" tvg-logo="" group-title="FR TV HD (France)",|FR| A.LA.CARTE.4
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99305
+#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 5" tvg-logo="" group-title="FR TV HD (France)",|FR| A LA CARTE 5
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99306
+#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 6" tvg-logo="" group-title="FR TV HD (France)",|FR| A LA CARTE 6
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99307
+#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 7" tvg-logo="" group-title="FR TV HD (France)",|FR| A LA CARTE 7
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99308
+#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 8" tvg-logo="" group-title="FR TV HD (France)",|FR| A LA CARTE 8
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99309
+#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 9" tvg-logo="" group-title="FR TV HD (France)",|FR| A LA CARTE 9
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99310
+#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 10" tvg-logo="" group-title="FR TV HD (France)",|FR| A LA CARTE 10
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99311
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 1" tvg-logo="" group-title="FR TV HD (France)",|FR| CANAL PLAY 1
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99312
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 2" tvg-logo="" group-title="FR TV HD (France)",|FR| CANAL PLAY 2
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99313
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 3 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL PLAY 3 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99314
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 4 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL PLAY 4 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99315
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 5" tvg-logo="" group-title="FR TV HD (France)",|FR| CANAL PLAY 5
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99316
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 6 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL PLAY 6 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99317
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 7" tvg-logo="" group-title="FR TV HD (France)",|FR| CANAL PLAY 7
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99318
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 8 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL PLAY 8 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99319
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 9 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL PLAY 9 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99320
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 10 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL PLAY 10 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99321
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL PLAY 11 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL PLAY 11 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99322
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="|FR| CANAL PLAY 18 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL PLAY 18 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99323
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE ENTERTAINMENT" tvg-logo="" group-title="FR TV HD (France)",|FR| FRANCE ENTERTAINMENT
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99324
+#EXTINF:-1 tvg-id="action.fr" tvg-name="|FR| ACTION HD" tvg-logo="" group-title="FR TV HD (France)",|FR| ACTION HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99325
+#EXTINF:-1 tvg-id="action.fr" tvg-name="|FR| ACTION FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| ACTION FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99326
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="|FR| Canal + Series HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Canal + Series HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99327
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="|FR| CRIME DISTRICT HD" tvg-logo="" group-title="FR TV HD (France)",|FR| CRIME DISTRICT HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99328
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="|FR| CSTAR HD" tvg-logo="" group-title="FR TV HD (France)",|FR| CSTAR HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99329
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="|FR| Game  One HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Game  One HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99330
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="|FR| TF SERIES FILMS HD" tvg-logo="" group-title="FR TV HD (France)",|FR| TF SERIES FILMS HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99331
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="|FR| TF1 Serie HD" tvg-logo="" group-title="FR TV HD (France)",|FR| TF1 Serie HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99332
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL HD" tvg-logo="" group-title="FR TV HD (France)",|FR| PARAMOUNT CHANNEL HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99333
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="|FR| Syfy HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Syfy HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99334
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="|FR| Syfy FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Syfy FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99335
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="|FR| NRJ12 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| NRJ12 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99336
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER HD" tvg-logo="" group-title="FR TV HD (France)",|FR| 6TER HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99337
+#EXTINF:-1 tvg-id="traceafrica.fr" tvg-name="|FR| Trace Africa HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Trace Africa HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99339
+#EXTINF:-1 tvg-id="traceafrica.fr" tvg-name="|FR| Trace Tropica HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Trace Tropica HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99340
+#EXTINF:-1 tvg-id="traceurban.fr" tvg-name="|FR| TRACE URBAN HD" tvg-logo="" group-title="FR TV HD (France)",|FR| TRACE URBAN HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99341
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TREK HD" tvg-logo="" group-title="FR TV HD (France)",|FR| TREK HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99342
+#EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="|FR| E! Entertainment HD" tvg-logo="" group-title="FR TV HD (France)",|FR| E! Entertainment HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99343
+#EXTINF:-1 tvg-id="TMC" tvg-name="|FR| TMC FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| TMC FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99345
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="|FR| Mangas HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Mangas HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99346
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="|FR| MTV DANCE" tvg-logo="" group-title="FR TV HD (France)",|FR| MTV DANCE
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99347
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="|FR| MTV HITS HD" tvg-logo="" group-title="FR TV HD (France)",|FR| MTV HITS HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99348
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="|FR| MCM" tvg-logo="" group-title="FR TV HD (France)",|FR| MCM
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99349
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="|FR| MCM TOP" tvg-logo="" group-title="FR TV HD (France)",|FR| MCM TOP
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99350
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="|FR| NRJ Hits HD" tvg-logo="" group-title="FR TV HD (France)",|FR| NRJ Hits HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99351
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="|FR| Seasons" tvg-logo="" group-title="FR TV HD (France)",|FR| Seasons
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99352
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE SPORT" tvg-logo="" group-title="FR TV HD (France)",|FR| FRANCE SPORT
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99353
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON Prime 1 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| AMAZON Prime 1 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99354
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON Prime 2 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| AMAZON Prime 2 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99355
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON Prime 3 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| AMAZON Prime 3 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99356
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON Prime 4 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| AMAZON Prime 4 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99357
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON Prime 5 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| AMAZON Prime 5 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99358
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON Prime 6 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| AMAZON Prime 6 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99359
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON Prime 7 HD+" tvg-logo="" group-title="FR TV HD (France)",|FR| AMAZON Prime 7 HD+
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99360
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON Prime 8 HD+" tvg-logo="" group-title="FR TV HD (France)",|FR| AMAZON Prime 8 HD+
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99361
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="|FR| bein Sport 1 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| bein Sport 1 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99362
+#EXTINF:-1 tvg-id="beINSPORTS1" tvg-name="|FR| Bein Sport 1 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Bein Sport 1 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99363
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="|FR| bein Sport 2 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| bein Sport 2 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99364
+#EXTINF:-1 tvg-id="beINSPORTS2" tvg-name="|FR| Bein Sport 2 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Bein Sport 2 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99365
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="|FR| bein Sport 3 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| bein Sport 3 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99366
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="|FR| Bein Sport 3 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Bein Sport 3 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99367
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="|FR| Bein max 4" tvg-logo="" group-title="FR TV HD (France)",|FR| Bein max 4
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99368
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="|FR| Bein Sport Max 5" tvg-logo="" group-title="FR TV HD (France)",|FR| Bein Sport Max 5
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99369
+#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="|FR| Bein Sport Max 6" tvg-logo="" group-title="FR TV HD (France)",|FR| Bein Sport Max 6
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99370
+#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="|FR| Bein Sport Max 7" tvg-logo="" group-title="FR TV HD (France)",|FR| Bein Sport Max 7
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99371
+#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="|FR| Bein Sport Max 8" tvg-logo="" group-title="FR TV HD (France)",|FR| Bein Sport Max 8
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99372
+#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="|FR| Bein Sport Max 9" tvg-logo="" group-title="FR TV HD (France)",|FR| Bein Sport Max 9
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99373
+#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="|FR| Bein Sport Max 10" tvg-logo="" group-title="FR TV HD (France)",|FR| Bein Sport Max 10
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99374
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="|FR| BFM SPORT" tvg-logo="" group-title="FR TV HD (France)",|FR| BFM SPORT
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99375
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="|FR| Canal + Sport HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Canal + Sport HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99376
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="|FR| Canal+ Sport FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Canal+ Sport FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99377
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="|FR| Eurosport 1 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Eurosport 1 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99378
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="|FR| Eurosport 2 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Eurosport 2 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99379
+#EXTINF:-1 tvg-id="footplus24.fr" tvg-name="|FR| FOOT  24" tvg-logo="" group-title="FR TV HD (France)",|FR| FOOT  24
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99380
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="|FR| RMC SPORT 1 SD" tvg-logo="" group-title="FR TV SD (FRANCE)",|FR| RMC SPORT 1 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99381
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="|FR| Rmc Sport 1 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Rmc Sport 1 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99382
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="|FR| Rmc Sport 3" tvg-logo="" group-title="FR TV HD (France)",|FR| Rmc Sport 3
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99383
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| RMC SPORT 3 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99384
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="|FR| Rmc Sport 2 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Rmc Sport 2 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99385
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 2 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| RMC SPORT 2 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99386
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT LIVE 5 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| RMC SPORT LIVE 5 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99387
+#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="|FR| Rmc sport 4" tvg-logo="" group-title="FR TV HD (France)",|FR| Rmc sport 4
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99388
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT LIVE 6 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| RMC SPORT LIVE 6 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99389
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT LIVE 7 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| RMC SPORT LIVE 7 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99390
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT LIVE 8 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| RMC SPORT LIVE 8 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99391
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT LIVE 9 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| RMC SPORT LIVE 9 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99392
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT LIVE 9 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| RMC SPORT LIVE 9 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99393
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT LIVE 10 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| RMC SPORT LIVE 10 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99394
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT LIVE 11 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| RMC SPORT LIVE 11 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99395
+#EXTINF:-1 tvg-id="rmcsportlive12.fr" tvg-name="|FR| RMC SPORT LIVE 12 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| RMC SPORT LIVE 12 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99396
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT LIVE 13 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| RMC SPORT LIVE 13 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99397
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT LIVE 14 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| RMC SPORT LIVE 14 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99398
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="|FR| INFOSPORT HD" tvg-logo="" group-title="FR TV HD (France)",|FR| INFOSPORT HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99399
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="|FR| L'EQUIPE HD" tvg-logo="" group-title="FR TV HD (France)",|FR| L'EQUIPE HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99400
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE KIDS" tvg-logo="" group-title="FR TV HD (France)",|FR| FRANCE KIDS
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99401
+#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="|FR| Cartoon Network FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Cartoon Network FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99402
+#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="|FR| TELETOON" tvg-logo="" group-title="FR TV HD (France)",|FR| TELETOON
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99403
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="|FR| Gulli FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Gulli FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99404
+#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="|FR| Disney Junior FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Disney Junior FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99405
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="|FR| BOOMERANG HD" tvg-logo="" group-title="FR TV HD (France)",|FR| BOOMERANG HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99406
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="|FR| CANAL J HD" tvg-logo="" group-title="FR TV HD (France)",|FR| CANAL J HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99407
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="|FR| DISNEY CHANNEL HD" tvg-logo="" group-title="FR TV HD (France)",|FR| DISNEY CHANNEL HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99408
+#EXTINF:-1 tvg-id="disneycinema.fr" tvg-name="|FR| DISNEY PLUS FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| DISNEY PLUS FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99409
+#EXTINF:-1 tvg-id="disneycinema.fr" tvg-name="|FR| DISNEY PLUS HD" tvg-logo="" group-title="FR TV HD (France)",|FR| DISNEY PLUS HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99410
+#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="|FR| Disney Junior" tvg-logo="" group-title="FR TV HD (France)",|FR| Disney Junior
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99411
+#EXTINF:-1 tvg-id="jone.fr" tvg-name="|FR| J One HD" tvg-logo="" group-title="FR TV HD (France)",|FR| J One HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99412
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="|FR| Nickelodeon FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Nickelodeon FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99413
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="|FR| NICKELODEON HD" tvg-logo="" group-title="FR TV HD (France)",|FR| NICKELODEON HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99414
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="|FR| PIWI FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| PIWI FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99415
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE DOCUMENTARY" tvg-logo="" group-title="FR TV HD (France)",|FR| FRANCE DOCUMENTARY
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99416
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="|FR| National Geographic" tvg-logo="" group-title="FR TV HD (France)",|FR| National Geographic
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99417
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="|FR| Nat Geo FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Nat Geo FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99418
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="|FR| Discovery Science FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Discovery Science FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99419
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="|FR| Nat Geo Wild  HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Nat Geo Wild  HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99420
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| ANIMAUX FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99421
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="|FR| Chasse et Peche" tvg-logo="" group-title="FR TV HD (France)",|FR| Chasse et Peche
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99422
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="|FR| Discovery HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Discovery HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99423
+#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="|FR| Discovery Investigation HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Discovery Investigation HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99424
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="|FR| National geo wild HD" tvg-logo="" group-title="FR TV HD (France)",|FR| National geo wild HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99425
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="|FR| PLANETE +  FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| PLANETE +  FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99426
+#EXTINF:-1 tvg-id="planeteaction.fr" tvg-name="|FR| PLANETE A&E HD" tvg-logo="" group-title="FR TV HD (France)",|FR| PLANETE A&E HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99427
+#EXTINF:-1 tvg-id="planetejustice.fr" tvg-name="|FR| Planet Crime Investigation HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Planet Crime Investigation HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99428
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="|FR| RMC Decouvert FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| RMC Decouvert FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99429
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="|FR| SCIENCE ET VIE HD" tvg-logo="" group-title="FR TV HD (France)",|FR| SCIENCE ET VIE HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99430
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="|FR| Teva FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| Teva FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99431
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="|FR| Tiji HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Tiji HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99432
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="|FR| TOUTE LHISTOIRE HD" tvg-logo="" group-title="FR TV HD (France)",|FR| TOUTE LHISTOIRE HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99433
+#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="|FR| TV BREIZH HD" tvg-logo="" group-title="FR TV HD (France)",|FR| TV BREIZH HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99434
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="|FR| USHUAIA  HD" tvg-logo="" group-title="FR TV HD (France)",|FR| USHUAIA  HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99435
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="|FR| TREK HD" tvg-logo="" group-title="FR TV HD (France)",|FR| TREK HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99436
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name="|FR| Voyage HD" tvg-logo="" group-title="FR TV HD (France)",|FR| Voyage HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99437
+#EXTINF:-1 tvg-id="ard.de" tvg-name="|FR| DE: Das Erste HD" tvg-logo="https://play.xsmp.xyz/logos/das-erste-de.png" group-title="FR TV HD (France)",|FR| DE: Das Erste HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106295
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="|FR| DE: ZDF HD" tvg-logo="https://play.xsmp.xyz/logos/zdf-de.png" group-title="FR TV HD (France)",|FR| DE: ZDF HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106456
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="|FR| DE: RTL HD ʰᵉᵛᶜ" tvg-logo="https://play.xsmp.xyz/logos/rtl-de.png" group-title="FR TV HD (France)",|FR| DE: RTL HD ʰᵉᵛᶜ
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106297
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="|FR| DE: RTL 2" tvg-logo="https://play.xsmp.xyz/logos/rtl-zwei-de.png" group-title="FR TV HD (France)",|FR| DE: RTL 2
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/109747
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="|FR| DE: ZDF HD ʰᵉᵛᶜ" tvg-logo="https://play.xsmp.xyz/logos/zdf-de.png" group-title="FR TV HD (France)",|FR| DE: ZDF HD ʰᵉᵛᶜ
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106296
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="|FR| DE: RTL HD" tvg-logo="https://play.xsmp.xyz/logos/rtl-de.png" group-title="FR TV HD (France)",|FR| DE: RTL HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106457
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="|FR| DE: SAT.1 HD" tvg-logo="https://play.xsmp.xyz/logos/sat-1-de.png" group-title="FR TV HD (France)",|FR| DE: SAT.1 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106458
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: kabel eins HD" tvg-logo="https://play.xsmp.xyz/logos/kabel-eins-de.png" group-title="FR TV HD (France)",|FR| DE: kabel eins HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106298
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: VOX HD ʰᵉᵛᶜ" tvg-logo="https://play.xsmp.xyz/logos/vox-de.png" group-title="FR TV HD (France)",|FR| DE: VOX HD ʰᵉᵛᶜ
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106299
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: arte HD" tvg-logo="https://play.xsmp.xyz/logos/arte-de.png" group-title="FR TV HD (France)",|FR| DE: arte HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106300
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: ZDF_neo HD" tvg-logo="https://play.xsmp.xyz/logos/zdf-neo-de.png" group-title="FR TV HD (France)",|FR| DE: ZDF_neo HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106301
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: ONE HD" tvg-logo="https://play.xsmp.xyz/logos/one-de.png" group-title="FR TV HD (France)",|FR| DE: ONE HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106302
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="|FR| DE: SIXX HD" tvg-logo="https://play.xsmp.xyz/logos/sixx-de.png" group-title="FR TV HD (France)",|FR| DE: SIXX HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106303
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: SIXX HD ʰᵉᵛᶜ" tvg-logo="https://play.xsmp.xyz/logos/sixx-de.png" group-title="FR TV HD (France)",|FR| DE: SIXX HD ʰᵉᵛᶜ
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106304
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: Tele 5 HD" tvg-logo="https://play.xsmp.xyz/logos/tele-5-de.png" group-title="FR TV HD (France)",|FR| DE: Tele 5 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106305
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: Servus TV HD" tvg-logo="https://play.xsmp.xyz/logos/servus-tv-deutchland-de.png" group-title="FR TV HD (France)",|FR| DE: Servus TV HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106306
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: Servus TV HD Oesterreich" tvg-logo="https://play.xsmp.xyz/logos/servus-tv-at.png" group-title="FR TV HD (France)",|FR| DE: Servus TV HD Oesterreich
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106307
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="|FR| DE: ProSieben HD" tvg-logo="https://play.xsmp.xyz/logos/pro-sieben-hd-de.png" group-title="FR TV HD (France)",|FR| DE: ProSieben HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/109746
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="|FR| DE: Pro7 MAXX HD" tvg-logo="https://play.xsmp.xyz/logos/pro-sieben-maxx-de.png" group-title="FR TV HD (France)",|FR| DE: Pro7 MAXX HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106308
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: NITRO HD" tvg-logo="https://play.xsmp.xyz/logos/nitro-de.png" group-title="FR TV HD (France)",|FR| DE: NITRO HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106309
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="|FR| DE: RTLup HD" tvg-logo="https://play.xsmp.xyz/logos/rtl-up-de.png" group-title="FR TV HD (France)",|FR| DE: RTLup HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106310
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="|FR| DE: SAT.1 Gold HD" tvg-logo="https://play.xsmp.xyz/logos/sat-1-gold-de.png" group-title="FR TV HD (France)",|FR| DE: SAT.1 Gold HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106311
+#EXTINF:-1 tvg-id="hr.de" tvg-name="|FR| DE: HR Fernsehen HD" tvg-logo="https://play.xsmp.xyz/logos/hr-de.png" group-title="FR TV HD (France)",|FR| DE: HR Fernsehen HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106312
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="|FR| DE: Sport 1 HD" tvg-logo="https://play.xsmp.xyz/logos/sport1-de.png" group-title="FR TV HD (France)",|FR| DE: Sport 1 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106313
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: SPORT1+ HD" tvg-logo="https://play.xsmp.xyz/logos/sport1-plus-de.png" group-title="FR TV HD (France)",|FR| DE: SPORT1+ HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106314
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: eSPORTS1 HD" tvg-logo="https://play.xsmp.xyz/logos/esports1-de.png" group-title="FR TV HD (France)",|FR| DE: eSPORTS1 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106315
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: Eurosport 1 HD" tvg-logo="https://play.xsmp.xyz/logos/eurosport-1-de.png" group-title="FR TV HD (France)",|FR| DE: Eurosport 1 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106316
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DE: Eurosport 2 HD" tvg-logo="https://play.xsmp.xyz/logos/eurosport-2-de.png" group-title="FR TV HD (France)",|FR| DE: Eurosport 2 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/106317
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR]  AL MAGHARIBIA 1 HD [DZ]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR]  AL MAGHARIBIA 1 HD [DZ]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8148
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] AL nas [Islamic]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] AL nas [Islamic]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8147
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Azhari [Islamic]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Azhari [Islamic]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8146
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al resalah [Islamic]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al resalah [Islamic]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8145
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Menhaj al nabowi [Islamic]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Menhaj al nabowi [Islamic]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8144
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Almajd Taghareed" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Almajd Taghareed
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8143
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Almajd  Scientific" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Almajd  Scientific
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8142
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Almajd Tabi3eya" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Almajd Tabi3eya
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8141
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Almajd Documentary" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Almajd Documentary
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8140
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Almajd rawda" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Almajd rawda
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8139
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Almajd Basma" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Almajd Basma
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8138
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Almajd radio KIDs" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Almajd radio KIDs
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8137
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Almajd  KIDS" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Almajd  KIDS
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8136
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Almajd Massa" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Almajd Massa
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8135
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Almajd TV" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Almajd TV
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8134
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Almajd Hadeth" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Almajd Hadeth
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8133
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Almajd Quraan" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Almajd Quraan
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8132
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Almajd 01" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Almajd 01
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8131
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Iqraa" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Iqraa
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8130
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Saudi Zad" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Saudi Zad
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8129
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Saudi Tv 1" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Saudi Tv 1
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8128
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Saudi 24 sport HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Saudi 24 sport HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8127
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Saudi 24" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Saudi 24
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8126
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Saudi Ayat" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Saudi Ayat
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8125
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Saudi Family" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Saudi Family
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8124
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Saudi Sport 24" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Saudi Sport 24
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8123
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Saudi News HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Saudi News HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8122
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Saudi Quran" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Saudi Quran
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8121
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Saudi Mekka tv" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Saudi Mekka tv
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8120
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Saudi Sunnah HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Saudi Sunnah HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8119
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] KSA SPORTS 1 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] KSA SPORTS 1 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8118
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] SORAT BAKARA . 3affasi" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] SORAT BAKARA . 3affasi
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8117
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] TOYOR BABY" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] TOYOR BABY
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8116
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Sat7 Kids" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Sat7 Kids
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8115
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Karameesh" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Karameesh
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8114
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Ar:SPACETOON" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Ar:SPACETOON
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8113
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] araby tv FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| [AR] araby tv FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8112
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] TRT Arabic" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] TRT Arabic
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8111
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al Hurra TV" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al Hurra TV
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8110
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] DW Arabic" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] DW Arabic
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8109
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] AlJazeera Full HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] AlJazeera Full HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8108
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al jazeera" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al jazeera
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8107
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] alhiwar" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] alhiwar
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8106
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] araby  FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| [AR] araby  FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8105
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] ANN" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] ANN
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8104
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Orient" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Orient
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8103
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Orient News TV" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Orient News TV
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8102
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Halab-Today" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Halab-Today
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8101
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] syriadrama HD++" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] syriadrama HD++
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8100
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Syrian Tv SD" tvg-logo="" group-title="FR TV SD (FRANCE)",|FR| [AR] Syrian Tv SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8099
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Souryana" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Souryana
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8098
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] alaan tv HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] alaan tv HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8097
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Future" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Future
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8096
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] |AR| ELJADEED+" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] |AR| ELJADEED+
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8095
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] EL JADEED" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] EL JADEED
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8094
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] MTV Lebanon" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] MTV Lebanon
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8093
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] LDC" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] LDC
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8092
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] LBC HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] LBC HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8091
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Otv [Leb]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Otv [Leb]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8090
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] funoon" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] funoon
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8089
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Salam tv" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Salam tv
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8088
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] b4u aflam" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] b4u aflam
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8087
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Alfajer tv 2" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Alfajer tv 2
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8086
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Alfajer tv 1" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Alfajer tv 1
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8085
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] wanasah" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] wanasah
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8084
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] KTV Sport" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] KTV Sport
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8083
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Atfal [KTV]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Atfal [KTV]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8082
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al Rai [KTV]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al Rai [KTV]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8081
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al Majlis [KTV]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al Majlis [KTV]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8080
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] KTV Plus" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] KTV Plus
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8079
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] KTV Al Qurain" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] KTV Al Qurain
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8078
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] KTV Al Arabi" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] KTV Al Arabi
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8077
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] KTV 2 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| [AR] KTV 2 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8076
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] KTV 1 FHD" tvg-logo="" group-title="FR TV FULL HD|4K  (France)",|FR| [AR] KTV 1 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8075
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] karine" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] karine
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8074
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] arabe" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] arabe
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8073
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Ithra2" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Ithra2
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8072
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR]  Mosawat TV SD" tvg-logo="" group-title="FR TV SD (FRANCE)",|FR| [AR]  Mosawat TV SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8071
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] palestiniantv" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] palestiniantv
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8070
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Palestine today" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Palestine today
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8069
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Pbc live" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Pbc live
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8068
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Palestine" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Palestine
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8067
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] roya" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] roya
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8066
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] AL FATEH" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] AL FATEH
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8065
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Alhurra" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Alhurra
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8064
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Houna baghdad" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Houna baghdad
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8063
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Hadath" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Hadath
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8062
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] arrafidain tv" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] arrafidain tv
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8061
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Dijlah" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Dijlah
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8060
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] samarra" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] samarra
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8059
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al hurra IRAQ" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al hurra IRAQ
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8058
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Alsharqiya tv" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Alsharqiya tv
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8057
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Sharqiya News" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Sharqiya News
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8056
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Rasheed" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Rasheed
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8055
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al Sharqiya" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al Sharqiya
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8054
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] NAT GEO AB HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] NAT GEO AB HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8053
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] CHARQIA KARBALA" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] CHARQIA KARBALA
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8052
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] CHARIQA SPORT" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] CHARIQA SPORT
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8051
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Majid Kids" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Majid Kids
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8050
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] toyour jana" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] toyour jana
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8049
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Ajyal" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Ajyal
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8048
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] media hader" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] media hader
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8047
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] France 24" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] France 24
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8046
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] NBN TV HD" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="FR TV HD (France)",|FR| [AR] NBN TV HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8045
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al Kass 5 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al Kass 5 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8044
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al Kass 4 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al Kass 4 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8043
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al Kass 3 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al Kass 3 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8042
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al Kass 2 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al Kass 2 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8041
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al Kass 1 HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al Kass 1 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8040
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Dubai Racing 3" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Dubai Racing 3
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8039
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Dubai Racing 2" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Dubai Racing 2
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8038
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Dubai Racing 1" tvg-logo="https://i.ya-webdesign.com/images/netflix-logo-2017-png-3.png" group-title="FR TV HD (France)",|FR| [AR] Dubai Racing 1
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8037
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Dubai Sports 3" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Dubai Sports 3
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8036
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Abu Dhabi Sports 3 HD+" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Abu Dhabi Sports 3 HD+
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8035
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Abu Dhabi Sports 2 SD" tvg-logo="" group-title="FR TV SD (FRANCE)",|FR| [AR] Abu Dhabi Sports 2 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8034
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Abu Dhabi Sports 1 SD" tvg-logo="" group-title="FR TV SD (FRANCE)",|FR| [AR] Abu Dhabi Sports 1 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8033
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Abu Dhabi Drama" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Abu Dhabi Drama
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8032
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Abu Dhabi TV HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Abu Dhabi TV HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8031
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al Arabiya [UAE]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al Arabiya [UAE]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8030
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Sama Dubai HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Sama Dubai HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8029
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] NOOR DUBAI" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] NOOR DUBAI
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8028
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Emarat TV [UAE]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Emarat TV [UAE]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8027
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] ToKToK AFLAM [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] ToKToK AFLAM [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8026
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Koogi TV Egypt" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Koogi TV Egypt
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8025
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Sat7 Egypt" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Sat7 Egypt
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8024
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] SADA EL BALAD Drama [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] SADA EL BALAD Drama [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8023
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Elsharq Elawsat TV [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Elsharq Elawsat TV [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8022
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] mehwar TV [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] mehwar TV [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8021
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Dream TV [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Dream TV [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8020
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al masriya [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al masriya [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8019
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Melody Classic [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Melody Classic [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8018
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al kahera Wa Lnas [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al kahera Wa Lnas [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8017
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] AL HAYAT [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] AL HAYAT [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8016
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al kahera Wa Lnas 2 [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al kahera Wa Lnas 2 [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8015
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] SADA EL BALAD 2 [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] SADA EL BALAD 2 [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8014
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Dmc  Drama HD [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Dmc  Drama HD [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8013
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al Hayat Drama [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al Hayat Drama [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8012
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] PNC Drama 2 [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] PNC Drama 2 [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8011
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] PNC Drama [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] PNC Drama [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8010
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] PNC Film [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] PNC Film [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8009
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] PNC Food [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] PNC Food [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8008
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] ON Drama [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] ON Drama [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8007
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR]  ON Sport HD [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR]  ON Sport HD [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8006
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] ON Live  [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] ON Live  [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8005
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] ON E HD [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] ON E HD [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8004
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] ON E SD [EGY]" tvg-logo="" group-title="FR TV SD (FRANCE)",|FR| [AR] ON E SD [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8003
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Nile TV [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Nile TV [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8002
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Nile Culture [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Nile Culture [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8001
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Nile News [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Nile News [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/8000
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Mekameleen TV [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Mekameleen TV [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7999
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] MEA TV [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] MEA TV [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7998
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] CBC Extra News [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] CBC Extra News [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7997
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Elsharq Elawsat 2 TV [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Elsharq Elawsat 2 TV [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7996
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR]  ON Sport SD [EGY]" tvg-logo="" group-title="FR TV SD (FRANCE)",|FR| [AR]  ON Sport SD [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7995
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Time Sports HD [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Time Sports HD [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7994
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] SADA EL BALAD  [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] SADA EL BALAD  [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7993
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] watan [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] watan [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7992
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Dmc LIVE [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Dmc LIVE [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7991
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] CBC DRAMA [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] CBC DRAMA [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7990
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al Nahar [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al Nahar [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7989
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Nahar drama [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Nahar drama [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7988
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] CBC [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] CBC [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7987
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] CBC Sofra [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] CBC Sofra [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7986
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Nile Cinema [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Nile Cinema [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7985
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Nile Comedy [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Nile Comedy [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7984
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] NILE Drama [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] NILE Drama [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7983
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] NILE FAMILY [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] NILE FAMILY [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7982
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Nile Life [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Nile Life [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7981
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Nile Sport [EGY]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Nile Sport [EGY]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7980
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR]  alhadath [LIB]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR]  alhadath [LIB]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7979
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR]  Elwatan [LIB]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR]  Elwatan [LIB]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7978
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR]  libya news [LIB]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR]  libya news [LIB]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7977
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] ZAYTOONA [TN]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] ZAYTOONA [TN]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7976
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] M TUNISIA [TN]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] M TUNISIA [TN]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7975
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] HANNIBAL TV [TN]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] HANNIBAL TV [TN]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7974
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Elhiwar Ettounsi [TN]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Elhiwar Ettounsi [TN]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7973
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Carthage + [TN]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Carthage + [TN]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7972
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Medi 1 TV [MA]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Medi 1 TV [MA]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7971
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Tamazight [MA]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Tamazight [MA]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7970
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Assadissa [MA]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Assadissa [MA]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7969
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Al Maghribia [MA]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Al Maghribia [MA]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7968
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Arrabiaa [MA]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Arrabiaa [MA]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7967
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Tele Maroc [MA]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Tele Maroc [MA]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7966
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] al oula maroc HD [MA]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] al oula maroc HD [MA]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7965
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Arriadia [MA]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Arriadia [MA]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7964
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Chada [MA]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Chada [MA]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7963
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] 2M Maroc [MA]" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] 2M Maroc [MA]
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7962
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Rotana Clib" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Rotana Clib
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7961
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] Rotana khalijia" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] Rotana khalijia
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7960
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] OSN ART Hekayat 1" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] OSN ART Hekayat 1
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7959
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] MBC MASR" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] MBC MASR
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7958
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] MBC MAX SD" tvg-logo="" group-title="FR TV SD (FRANCE)",|FR| [AR] MBC MAX SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7957
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] MBC 4 SD" tvg-logo="" group-title="FR TV SD (FRANCE)",|FR| [AR] MBC 4 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7956
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] MBC 3 SD" tvg-logo="" group-title="FR TV SD (FRANCE)",|FR| [AR] MBC 3 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7955
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] MBC 2 SD" tvg-logo="" group-title="FR TV SD (FRANCE)",|FR| [AR] MBC 2 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7954
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [IT] Paramount NETWORK HD" tvg-logo="" group-title="FR TV HD (France)",|FR| [IT] Paramount NETWORK HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7932
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] beIN Sport NBA" tvg-logo="" group-title="FR TV HD (France)",|FR| [AR] beIN Sport NBA
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7929
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 10 SD" tvg-logo="http://aromaiptv.com:80/images/273d41e7d483ee11cf34b60340f93767.png" group-title="FR TV SD (FRANCE)",|FR| [AR] BEIN SPORTS 10 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7928
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 9 SD" tvg-logo="http://aromaiptv.com:80/images/94bfbc5986a10cde3553a2b6257fe441.png" group-title="FR TV SD (FRANCE)",|FR| [AR] BEIN SPORTS 9 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7927
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 8 SD" tvg-logo="http://aromaiptv.com:80/images/f7375b1efbd866979bbc703087d2d9b1.png" group-title="FR TV SD (FRANCE)",|FR| [AR] BEIN SPORTS 8 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7926
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 7 SD" tvg-logo="http://aromaiptv.com:80/images/184b8423f36edff8ce4d968387ebd9e4.png" group-title="FR TV SD (FRANCE)",|FR| [AR] BEIN SPORTS 7 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7925
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 6 SD" tvg-logo="http://aromaiptv.com:80/images/1a2feef6da523ebd5b70b9f2a1dd2446.png" group-title="FR TV SD (FRANCE)",|FR| [AR] BEIN SPORTS 6 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7924
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 5 SD" tvg-logo="http://aromaiptv.com:80/images/ed5e30e9f2ecb3ac244bcb643a77a047.png" group-title="FR TV SD (FRANCE)",|FR| [AR] BEIN SPORTS 5 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7923
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 4 SD" tvg-logo="http://aromaiptv.com:80/images/c8f15b7c77e8c3492bb8ba6d55f36e64.png" group-title="FR TV SD (FRANCE)",|FR| [AR] BEIN SPORTS 4 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7922
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 3 SD" tvg-logo="http://aromaiptv.com:80/images/f00bec12f1d379826082528d47bda89e.png" group-title="FR TV SD (FRANCE)",|FR| [AR] BEIN SPORTS 3 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7921
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 2 SD" tvg-logo="http://aromaiptv.com:80/images/8bd1c25890fa37332e39792273d12aac.png" group-title="FR TV SD (FRANCE)",|FR| [AR] BEIN SPORTS 2 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7920
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 1 SD" tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="FR TV SD (FRANCE)",|FR| [AR] BEIN SPORTS 1 SD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7919
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 13 HD" tvg-logo="http://aromaiptv.com:80/images/2cc92b51bab4e291e62af1494d1f4d65.png" group-title="FR TV HD (France)",|FR| [AR] BEIN SPORTS 13 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7918
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 12 HD" tvg-logo="http://aromaiptv.com:80/images/7575253ffab502b2816a03752b86b200.png" group-title="FR TV HD (France)",|FR| [AR] BEIN SPORTS 12 HD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7917
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 16 FHD" tvg-logo="http://aromaiptv.com:80/images/980e39d745cc38d2183b67416b18ba76.png" group-title="FR TV FULL HD|4K  (France)",|FR| [AR] BEIN SPORTS 16 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7915
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 15 FHD" tvg-logo="http://aromaiptv.com:80/images/59b013e07bfede52e185dbacb9b8f37d.png" group-title="FR TV FULL HD|4K  (France)",|FR| [AR] BEIN SPORTS 15 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7914
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 14 FHD" tvg-logo="http://aromaiptv.com:80/images/ad1ce1b6ba358fed4114a637723bc3bf.png" group-title="FR TV FULL HD|4K  (France)",|FR| [AR] BEIN SPORTS 14 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7913
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 13 FHD" tvg-logo="http://aromaiptv.com:80/images/2cc92b51bab4e291e62af1494d1f4d65.png" group-title="FR TV FULL HD|4K  (France)",|FR| [AR] BEIN SPORTS 13 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7912
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 12 FHD" tvg-logo="http://aromaiptv.com:80/images/7575253ffab502b2816a03752b86b200.png" group-title="FR TV FULL HD|4K  (France)",|FR| [AR] BEIN SPORTS 12 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7911
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 11 FHD" tvg-logo="https://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="FR TV FULL HD|4K  (France)",|FR| [AR] BEIN SPORTS 11 FHD
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7910
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 16 Hevc" tvg-logo="http://aromaiptv.com:80/images/980e39d745cc38d2183b67416b18ba76.png" group-title="FR TV HD (France)",|FR| [AR] BEIN SPORTS 16 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7909
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 15 Hevc" tvg-logo="http://aromaiptv.com:80/images/59b013e07bfede52e185dbacb9b8f37d.png" group-title="FR TV HD (France)",|FR| [AR] BEIN SPORTS 15 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7908
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 14 Hevc" tvg-logo="http://aromaiptv.com:80/images/ad1ce1b6ba358fed4114a637723bc3bf.png" group-title="FR TV HD (France)",|FR| [AR] BEIN SPORTS 14 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7907
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 13 Hevc" tvg-logo="http://aromaiptv.com:80/images/2cc92b51bab4e291e62af1494d1f4d65.png" group-title="FR TV HD (France)",|FR| [AR] BEIN SPORTS 13 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7906
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 12 Hevc" tvg-logo="http://aromaiptv.com:80/images/7575253ffab502b2816a03752b86b200.png" group-title="FR TV HD (France)",|FR| [AR] BEIN SPORTS 12 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7905
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] BEIN SPORTS 11 Hevc" tvg-logo="https://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="FR TV HD (France)",|FR| [AR] BEIN SPORTS 11 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7904
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] beIN SPORT 10 Hevc" tvg-logo="https://static.iptv-epg.com/qa/beINSports10.qa.png" group-title="FR TV HD (France)",|FR| [AR] beIN SPORT 10 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7903
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] beIN SPORT 6 Hevc" tvg-logo="https://static.iptv-epg.com/qa/beINSports6.qa.png" group-title="FR TV HD (France)",|FR| [AR] beIN SPORT 6 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7899
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] beIN SPORT 5 Hevc" tvg-logo="https://static.iptv-epg.com/qa/beINSports5.qa.png" group-title="FR TV HD (France)",|FR| [AR] beIN SPORT 5 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7898
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] beIN SPORT 4 Hevc" tvg-logo="https://static.iptv-epg.com/qa/beINSports4.qa.png" group-title="FR TV HD (France)",|FR| [AR] beIN SPORT 4 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7897
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] beIN SPORT 3 Hevc" tvg-logo="http://istars.pro:8080/images/40fmqrvG3AKtVJIiUyQpCSXZVD6K9J9u.png" group-title="FR TV HD (France)",|FR| [AR] beIN SPORT 3 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7896
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] beIN SPORT 2 Hevc" tvg-logo="http://istars.pro:8080/images/YzeBE6r8Xy4d256ZGLOXtqmdI01J1i5y.png" group-title="FR TV HD (France)",|FR| [AR] beIN SPORT 2 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7895
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] beIN SPORT 1 Hevc" tvg-logo="http://istars.pro:8080/images/rLlXT0YPHLEKAodKtt5GbRGlpGIi0jm3.png" group-title="FR TV HD (France)",|FR| [AR] beIN SPORT 1 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7894
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] beIN SPORT NEWS Hevc" tvg-logo="https://static.iptv-epg.com/qa/beINSportsGlobal.qa.png" group-title="FR TV HD (France)",|FR| [AR] beIN SPORT NEWS Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7893
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] beIN SPORT GLOBAL Hevc" tvg-logo="https://static.iptv-epg.com/qa/beINSportsGlobal.qa.png" group-title="FR TV HD (France)",|FR| [AR] beIN SPORT GLOBAL Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7892
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] beIN SPORT 7 Hevc" tvg-logo="https://static.iptv-epg.com/qa/beINSports7.qa.png" group-title="FR TV HD (France)",|FR| [AR] beIN SPORT 7 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7900
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] beIN SPORT 8 Hevc" tvg-logo="https://static.iptv-epg.com/qa/beINSports8.qa.png" group-title="FR TV HD (France)",|FR| [AR] beIN SPORT 8 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7901
+#EXTINF:-1 tvg-id="" tvg-name="|FR| [AR] beIN SPORT 9 Hevc" tvg-logo="https://static.iptv-epg.com/qa/beINSports9.qa.png" group-title="FR TV HD (France)",|FR| [AR] beIN SPORT 9 Hevc
+http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/7902
